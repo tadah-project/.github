@@ -7,11 +7,11 @@ Documentation: <https://tadah.readthedocs.io>
 
 - [tadah.mlip](https://github.com/tadah-project/tadah.mlip): the `tadah`
   program (training, prediction, hyperparameter optimisation) and the
-  documentation. Issues are reported here.
+  documentation.
 - [tadah.lammps](https://github.com/tadah-project/tadah.lammps): the
-  `pair_style tadah` plugin for LAMMPS. Its issues are reported there.
+  `pair_style tadah` plugin for LAMMPS.
 
-**Components** (fetched by the build automatically; no issue trackers)
+**Components** (fetched by the build automatically)
 
 - [core](https://github.com/tadah-project/core): configuration and shared types
 - [models](https://github.com/tadah-project/models): descriptors, cutoffs and regressors
